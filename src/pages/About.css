@@ -1,0 +1,17 @@
+.toolbarStyle {
+color: blue;
+}
+
+.aboutCardStyle{
+  width: 350px;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 15px;
+}
+
+.dividerAbout{
+  height: 5px;
+  width: 500px;
+  margin: auto;
+  background-color: red;
+}
